@@ -1,2 +1,2 @@
 You need 
-ROFI, Polybar, I3WM
+ROFI, Polybar, I3WM, FEH
